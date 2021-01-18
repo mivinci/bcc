@@ -1,0 +1,12 @@
+bcc
+===
+
+BCC校验（逐位异或校验）
+
+Exmple:
+    
+    $ gcc -o bcc main.c
+    $ bcc BA01FFFF00013000000000C800C8
+    8a
+
+
